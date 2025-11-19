@@ -1,0 +1,7 @@
+{
+  "name": "OmniHome AI Assistant",
+  "description": "A voice-controlled smart home dashboard powered by Gemini. Features real-time device control, voice interaction, and a futuristic green/orange aesthetic.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
