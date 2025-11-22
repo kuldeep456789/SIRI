@@ -1,6 +1,7 @@
 # OmniHome AI Assistant
 
 OmniHome is a futuristic, voice-controlled smart home dashboard simulation powered by Google's Gemini 2.5 Flash model. It demonstrates the power of Large Language Models (LLMs) integrated with Function Calling to control application state.
+![image alt](https://raw.githubusercontent.com/kuldeep456789/SIRI/32cb0763e82db8ab8a770ca965c3d31c29c028e4/alexa-or-siri-CONTENT-2019.webp)
 
 ## 🌟 Features
 
